@@ -1,0 +1,50 @@
+
+
+.listItem{
+
+   width: 600px;
+   margin: 0px auto;
+   font-size: 30px;
+
+}
+
+.head {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #FAC213;
+    text-align: center;
+}
+.Items{
+    background-color: #FEF9A7;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.Items > div{
+    padding: 10px;
+    text-align: left;
+    border-right: solid 1px black;
+}
+
+.name{
+    
+    width: 55%;
+   
+}
+.age{
+
+    width: 22%;
+}
+.action{
+    text-align: center !important;
+    cursor: pointer;
+    font-size: 40px;
+
+}
+.Items> .action{
+    font-weight: 900;
+    width: 19%;
+}
+
+

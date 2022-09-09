@@ -1,0 +1,29 @@
+.AddItems{
+    width: 600px;
+    margin: 0 auto;
+    font-size: 30px;
+    text-align: left;
+ }
+
+ input{
+    margin: 0 1px;
+    padding: 5px;
+    font-size: 25px;
+    height: 44px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+ }
+
+ #name{
+    
+    width: 55%;
+   
+}
+#age{
+
+    width: 22%;
+}
+#action{
+    background-color: orange;
+    width: 19%;
+}
